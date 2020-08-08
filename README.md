@@ -1,2 +1,2 @@
 # Airport
-An OpenGL application for all aircraft lovers.
+An OpenGL game for all aircraft lovers.
